@@ -1,4 +1,3 @@
-![] (https://github.com/appneatech/markdown-sintaxis/blob/main/markdown-logo.jpg)
 
 INTRODUCCIÓN A LA SINTAXIS MARKDOWN
 
