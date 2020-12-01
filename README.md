@@ -1,4 +1,4 @@
-![Logo Markdown] (https://github.com/appneatech/markdown-sintaxis/blob/main/markdown-logo.jpg)
+![] (https://github.com/appneatech/markdown-sintaxis/blob/main/markdown-logo.jpg)
 
 INTRODUCCIÓN A LA SINTAXIS MARKDOWN
 
